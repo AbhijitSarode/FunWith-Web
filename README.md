@@ -6,3 +6,6 @@ This project uses HTML/CSS
 
 ## Project 2: Roll The Dice
 This project uses DOM manipulation
+
+## Project 3: Drum Kit
+This project uses DOM manipulation & audio
