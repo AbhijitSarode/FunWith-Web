@@ -13,17 +13,27 @@ h1 {
 
 .drum-kit {
     margin-top: 10%;
+    padding-bottom: 15%;
 }
 
 .drum {
-    width: 6.55rem;
-    height: 6.55rem;
+    width: 9.375rem;
+    height: 9.375rem;
     border: 10px solid #404B69;
     margin: 1.2%;
     text-shadow: 3px 0 #DBEDF3;
     border-radius: 15px;
     line-height: 2;
     font-weight: 900;
+    font-family: 'Arvo', cursive;
+    font-size: 5rem;
+    color: #DA0463;
+    text-shadow: 3px 0 #DBEDF3;
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+    outline: none;
 }
 
 .w {
@@ -52,4 +62,14 @@ h1 {
 
 .l {
     background-image: url(images/snare.png);
+}
+
+footer {
+    color: #DBEDF3;
+    font-family: sans-serif;
+}
+
+.pressed {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
 }
