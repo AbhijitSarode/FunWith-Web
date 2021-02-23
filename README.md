@@ -9,3 +9,6 @@ This project uses DOM manipulation
 
 ## Project 3: Drum Kit
 This project uses DOM manipulation & audio
+
+## Project 4: Simon Game
+This project uses jQuery
