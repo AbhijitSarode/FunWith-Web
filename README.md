@@ -16,7 +16,11 @@ This project uses jQuery to manipulate DOM
 
 # Resources
 
-[Sean halpin's website]: www.seanhalpin.design
+Sean halpin's website
+The complete web development course 2020
+<!-- links -->
+
+[Sean halpin's website](www.seanhalpin.design)
 
 [The complete web development course 2020]: https://www.appbrewery.co/p/the-complete-web-development-course
 
