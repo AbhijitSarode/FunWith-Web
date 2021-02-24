@@ -3,7 +3,7 @@ This repo is a collection of all the small projects built to learn the web skill
 
 ## Project 1: Personal Website
 This project is inspired by the Sean Halpin's old website. This is a responsive website which uses HTML/CSS.
-![alt text][site]
+![Porfolio site][site]
 
 ## Project 2: Roll The Dice
 This project uses  basic DOM manipulation techniques
@@ -15,14 +15,11 @@ This project uses DOM manipulation & audio
 This project uses jQuery to manipulate DOM 
 
 # Resources
-
-Sean halpin's website
-The complete web development course 2020
 <!-- links -->
 
-[Sean halpin's website](www.seanhalpin.design)
+* [Sean halpin's website](https://www.seanhalpin.design)
 
-[The complete web development course 2020]: https://www.appbrewery.co/p/the-complete-web-development-course
+* [The complete web development course 2020](https://www.appbrewery.co/p/the-complete-web-development-course)
 
 
 [site]: https://github.com/
