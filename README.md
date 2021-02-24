@@ -18,9 +18,10 @@ This project uses jQuery to manipulate DOM
 
 # Resources
 
-* [Sean halpin's website](https://www.seanhalpin.design)
-
-* [The complete web development course 2020](https://www.appbrewery.co/p/the-complete-web-development-course)
+* [Sean Halpin's website](https://www.seanhalpin.design)
+* [The Complete Web Development Course 2020 - Angela Yu](https://www.appbrewery.co/p/the-complete-web-development-course)
+* [The Web Developer Bootcamp - Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp/)
+* [The Modern Javascript Bootcamp Course - Colt Steele](https://www.udemy.com/course/javascript-beginners-complete-tutorial/)
 
 <!-- links -->
 [Site]: https://github.com/
