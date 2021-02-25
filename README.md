@@ -22,7 +22,7 @@ This project uses jQuery to manipulate DOM
 * [The Complete Web Development Course 2020 - Angela Yu](https://www.appbrewery.co/p/the-complete-web-development-course)
 * [The Web Developer Bootcamp - Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp/)
 * [The Modern Javascript Bootcamp Course - Colt Steele](https://www.udemy.com/course/javascript-beginners-complete-tutorial/)
-
+* [Frontend Mentor](https://www.frontendmentor.io)
 <!-- links -->
 [Site]: https://github.com/
 [Die]: https://github.com/
