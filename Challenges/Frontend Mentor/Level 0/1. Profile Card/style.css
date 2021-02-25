@@ -1,8 +1,12 @@
 body {
-    background-color: whitesmoke;
     text-align: center;
-    width: 1440px;
+}
+
+#container {
+    background-color: hsl(185, 75%, 39%);
+    width: 1400px;
     font-family: 'Kumbh Sans', sans-serif;
+    /* margin: 0% 4%; */
 }
 
 /* Primary colors
@@ -15,13 +19,13 @@ dark gray: hsl(0, 0%, 59%)
 
 font size 1.125rem */
 
-#container {
-    width: 18.75rem;
-    height: 20rem;
-    background-color: yellow;
+#box {
+    width: 19.75rem;
+    height: 22rem;
+    background-color: white;
     border-radius: 1rem;
     display: inline-block;
-    margin: 0% auto;
+    margin: 13% auto auto;
     /* box-shadow */
 }
 
@@ -32,9 +36,17 @@ font size 1.125rem */
     height: 40%;
 }
 
+#profile {
+    border-radius: 50%;
+    border-color:black 5px solid;
+}
+
 #footer {
-    height: 20%;
-    background-color: cornflowerblue;
+    height: 25%;
+    background-color: white;
     position: relative;
-    margin-top: 20px;
+    margin-top: 41%;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    /* border-color: hsl(0, 0%, 59%) 1px solid; */
 }
