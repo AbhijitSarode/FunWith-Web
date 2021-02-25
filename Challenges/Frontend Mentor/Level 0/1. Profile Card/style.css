@@ -1,7 +1,19 @@
 body {
     background-color: whitesmoke;
     text-align: center;
+    width: 1440px;
+    font-family: 'Kumbh Sans', sans-serif;
 }
+
+/* Primary colors
+Dark cyan: hsl(185, 75%, 39%)
+Very dark desaturated blue: hsl(229, 23%, 23%)
+Dark grayish blue: hsl(227, 10%, 46%)
+
+neutral: 
+dark gray: hsl(0, 0%, 59%)
+
+font size 1.125rem */
 
 #container {
     width: 18.75rem;
