@@ -4,9 +4,12 @@ body {
 
 #container {
     background-color: hsl(185, 75%, 39%);
-    width: 1400px;
+    width: 90%;
+    height: 40rem;
     font-family: 'Kumbh Sans', sans-serif;
-    /* margin: 0% 4%; */
+    font-size: 1.125rem;
+    margin: 7rem auto;
+    position: relative;
 }
 
 /* Primary colors
@@ -21,32 +24,78 @@ font size 1.125rem */
 
 #box {
     width: 19.75rem;
-    height: 22rem;
+    height: 21.8rem;
     background-color: white;
     border-radius: 1rem;
-    display: inline-block;
-    margin: 13% auto auto;
-    /* box-shadow */
+    display: inline;
+    margin: 7% auto;
+    box-shadow: tomato 0 0 80px 30px;
+    position: absolute;
 }
 
 #header {
     background-image: url('images/bg-pattern-card.svg');
     border-top-left-radius: 1rem;
     border-top-right-radius: 1rem;
-    height: 40%;
+    height: 35%;
 }
 
 #profile {
     border-radius: 50%;
-    border-color:black 5px solid;
+    border: white 5px solid;
+    margin-top: -2.9rem;
 }
 
 #footer {
-    height: 25%;
+    height: 12%;
+    width: 19.75rem;
     background-color: white;
-    position: relative;
-    margin-top: 41%;
+    /* margin-bottom: 0%; */
     border-bottom-left-radius: 1rem;
     border-bottom-right-radius: 1rem;
-    /* border-color: hsl(0, 0%, 59%) 1px solid; */
+    border-top: hsl(0, 1%, 77%) 1px solid;
+    position: absolute;
+}
+
+#social {
+    display: inline;
+    position: relative;
+}
+
+#followers {
+    float: left;
+    margin: 0px 1rem;
+}
+
+#likes {
+    width: 66%;
+}
+
+#photos {
+    float: right;
+    top: 1rem;
+    margin-right:1rem;
+}
+
+#top-right-image {
+    position: absolute;
+    height: 70%;
+    left: 3rem;
+    /* rotate: 180; */
+}
+
+#bottom-left-image {
+    position: absolute;
+    height: 70%;
+    right: 3rem;
+    bottom: 5rem;
+    transform: rotate(5deg);
+}
+
+p, h5, h6 {
+    color: hsl(0, 0%, 59%);
+}
+
+h5, h6 {
+    text-decoration: none;
 }
