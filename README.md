@@ -15,14 +15,18 @@ Roll The Dice is a basic game. It uses basic DOM manipulation techniques of dyna
 Drum kit allows you to play basic drums and cymbals sounds either by click or pressing the keys on the keyboard. This project focuses on eventListeners, DOM manipulation & audio integration
 ![Drum Kit][Drums]
 
-### Project 4: Simon Game
+### Project 4: Guess The Color
+
+### Project 5: Simon Game
 This project uses jQuery to manipulate DOM 
+
+### Project 6: Pat-a-tap
 
 # Challenges
 
 ## Frontend Mentor
 
-### Challege 1 - Level 0: Profile Card
+### Challege 1: Profile Card
 
 # Resources
 
