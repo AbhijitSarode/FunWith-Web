@@ -5,15 +5,15 @@ This repo is a collection of all the small projects built to learn the web skill
 
 ### Project 1: Personal Website
 This project is inspired by the Sean Halpin's old website. This is a responsive website which uses HTML/CSS.
-![Porfolio site][Site]
+![Porfolio site][P1]
 
 ### Project 2: Roll The Dice
 Roll The Dice is a basic game. It uses basic DOM manipulation techniques of dynamically adding and updating UI elements
-![Dicee][Die]
+![Dicee][P2]
 
 ### Project 3: Drum Kit
 Drum kit allows you to play basic drums and cymbals sounds either by click or pressing the keys on the keyboard. This project focuses on eventListeners, DOM manipulation & audio integration
-![Drum Kit][Drums]
+![Drum Kit][P3]
 
 ### Project 4: Guess The Color
 
@@ -42,8 +42,8 @@ This project uses jQuery to manipulate DOM
 <!-- links -->
 
 <!-- Projects -->
-[Site]: https://github.com/
-[Die]: https://github.com/
-[Drums]: https://github.com/
+[P1]: https://github.com/AbhijitSarode/FunWith-Web/blob/main/Screenshots/Screenshot%202020-12-27%20at%208.54.06%20AM.png
+[P2]: https://github.com/
+[P3]: https://github.com/
 
 <!-- Challenges -->
