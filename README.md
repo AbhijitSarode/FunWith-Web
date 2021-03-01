@@ -12,10 +12,12 @@ Roll The Dice is a basic game. It uses basic DOM manipulation techniques of dyna
 ![Dicee][P2]
 
 ### Project 3: Drum Kit
-Drum kit allows you to play basic drums and cymbals sounds either by click or pressing the keys on the keyboard. This project focuses on eventListeners, DOM manipulation & audio integration
+Drum kit allows you to play basic drums and cymbals sounds either by clicking on virtual keys or pressing the keys on the keyboard. This project focuses on eventListeners, DOM manipulation & audio integration
 ![Drum Kit][P3]
 
 ### Project 4: Guess The Color
+Guess The Color is an interactive game where you have to select the right RGB color which are randomly generated. This game comprises of two level 'Easy' & 'Hard'. This project utilizes DOM manipulations
+![Guess The Color][P4]
 
 ### Project 5: Simon Game
 This project uses jQuery to manipulate DOM 
@@ -42,8 +44,8 @@ This project uses jQuery to manipulate DOM
 <!-- links -->
 
 <!-- Projects -->
-[P1]: https://github.com/AbhijitSarode/FunWith-Web/blob/main/Screenshots/Screenshot%202020-12-27%20at%208.54.06%20AM.png
+[P1]: https://github.com/ 
 [P2]: https://github.com/
 [P3]: https://github.com/
-
+[P4]: https://github.com/
 <!-- Challenges -->
