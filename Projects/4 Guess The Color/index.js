@@ -4,25 +4,45 @@ var squares = document.querySelectorAll('.square')
 var colorDisplay = document.querySelector('#color-display')
 var messgeDisplay = document.querySelector("#message")
 var h1 = document.querySelector('h1')
-var reset = document.querySelector('#reset')
+var resetBtn = document.querySelector('#reset')
+var easyBtn = document.querySelector("#easy")
+var hardBtn = document.querySelector("#hard")
 // var pickedColor = colors[3]
-var pickedColor = pickedColor()
+var pickedColor = pickColor()
 colorDisplay.textContent = pickedColor
 
 
-reset.addEventListener('click', function(){
+resetBtn.addEventListener('click', function(){
     //Generate all new colors
     colors = generataRandomColors(6)
     //Pick a new random color from the array
-    pickedColor = pickedColor()
+    pickedColor = pickColor()
 
     // Change colorDisplay to match picked color
     colorDisplay.textContent = pickedColor
 
     //Change the colors of the squares
-
+    for(var i = 0; i< squares.length; i++) {
+        squares[i].style.background = colors[i]
+    }
+    h1.style.backgroundColor = "rgb(53, 52, 52)"
 })
 
+easyBtn.addEventListener('click', function(){
+    easyBtn.classList.add("selected")
+    hardBtn.classList.remove("selected")
+    colors = generataRandomColors(3)
+    pickedColor = pickColor()
+    colorDisplay.textContent = pickedColor
+})
+
+hardBtn.addEventListener('click', function(){
+    hardBtn.classList.add("selected")
+    easyBtn.classList.remove("selected")
+    colors = generataRandomColors(6)
+    pickColor = pickedColor()
+    colorDisplay.textContent = pickedColor
+})
 
 for(var i = 0; i< squares.length; i++) {
     //Add intial colors to squares
@@ -37,6 +57,7 @@ for(var i = 0; i< squares.length; i++) {
             messgeDisplay.textContent = "Correct👏"
             h1.style.backgroundColor = pickedColor
             changeColors()
+            resetBtn.textContent = "Play Again?"
         } else {
             this.style.background = "rgb(53, 52, 52)"
             messgeDisplay.textContent = "Try again"
@@ -50,7 +71,7 @@ function changeColors(){
     }
 }
 
-function pickedColor() {
+function pickColor() {
     var random = Math.floor(Math.random() * 6)
     return colors[random]
 }

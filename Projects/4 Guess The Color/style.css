@@ -28,6 +28,10 @@ body {
     float: left;
 }
 
+.selected {
+    background-color: blue;
+}
+
 h1 {
     color: white;
 }
