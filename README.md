@@ -5,7 +5,8 @@ This repo is a collection of all the small projects built to learn the web skill
 
 ### Project 1: Personal Website
 This project is inspired by the Sean Halpin's old website. This is a responsive website which uses HTML/CSS.
-![Porfolio site][P1]
+![Porfolio site][P1.1]
+![Porfolio site][P1.2]
 
 ### Project 2: Roll The Dice
 Roll The Dice is a basic game. It uses basic DOM manipulation techniques of dynamically adding and updating UI elements
@@ -44,7 +45,9 @@ This project uses jQuery to manipulate DOM
 <!-- links -->
 
 <!-- Projects -->
-[P1]: https://github.com/ 
+[P1.1]: https://raw.githubusercontent.com/AbhijitSarode/FunWith-Web/main/Screenshots/Screenshot%202021-03-02%20at%207.05.18%20AM.png?token=AMNLQ32PM6N75TGMDN53OVDAHWLVA
+[P1.2]: https://raw.githubusercontent.com/AbhijitSarode/FunWith-Web/main/Screenshots/Screenshot%202021-03-02%20at%207.06.05%20AM.png?token=AMNLQ36YLR2II2G5P7R3AJLAHWLZC
+
 [P2]: https://github.com/
 [P3]: https://github.com/
 [P4]: https://github.com/
