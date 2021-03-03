@@ -28,6 +28,7 @@ resetBtn.addEventListener('click', function(){
     }
     h1.style.backgroundColor = "steelblue"
     resetBtn.textContent = "new colors"
+    messgeDisplay.textContent = ""
 })
 
 easyBtn.addEventListener('click', function(){
