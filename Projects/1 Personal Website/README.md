@@ -1,5 +1,8 @@
 # Project 1: Personal Website
-This project uses HTML/CSS 
+This project is the very first project in the journey of web development. This project is focused on getting aquainted about HTML/CSS and its basic components.
+
+In this project following things are used
+* Display and position properties to make it responsive
 
 
 ### Challenges Faced
