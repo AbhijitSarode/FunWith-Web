@@ -6,4 +6,24 @@ Dark grayish blue: hsl(227, 10%, 46%)
 neutral: 
 dark gray: hsl(0, 0%, 59%)
 font-family: 'Kumbh Sans', sans-serif;
+font-weight: 400, 700
 font size 1.125rem */
+
+body {
+    text-align: center;
+    /* background: hsl(185, 75%, 39%); */
+}
+
+#container {
+    height: 20rem;
+    width: 20rem;
+    border-radius: 1rem;
+}
+#upper-background {
+    height: 35%;
+    background-image: url('images/bg-pattern-card.svg');
+}
+
+#profile-pic {
+    border-radius: 50px;
+}

@@ -6,11 +6,19 @@ var colorDisplay = document.querySelector('#color-display')
 var messgeDisplay = document.querySelector("#message")
 var h1 = document.querySelector('h1')
 var resetBtn = document.querySelector('#reset')
+
+/*      Refoctorization
 var easyBtn = document.querySelector("#easy")
 var hardBtn = document.querySelector("#hard")
-// var pickedColor = colors[3]
+*/
+
+var modeButtons = document.querySelectorAll('.mode')
+
+/*      Development
+var pickedColor = colors[3]
+*/
 var pickedColor = pickColor()
-colorDisplay.textContent = pickedColor
+colorDisplay.textContent = pickedColor 
 
 
 resetBtn.addEventListener('click', function(){
@@ -31,6 +39,7 @@ resetBtn.addEventListener('click', function(){
     messgeDisplay.textContent = ""
 })
 
+/*      Refoctorization
 easyBtn.addEventListener('click', function(){
     easyBtn.classList.add("selected")
     hardBtn.classList.remove("selected")
@@ -60,6 +69,20 @@ hardBtn.addEventListener('click', function(){
             squares[i].style.display = "block"
     }
 })
+*/
+
+for (var i = 0; i < modeButtons.length; i++) {
+    modeButtons[i].addEventListener('click', function() {
+        modeButtons[0].classList.remove('selected')    
+        modeButtons[1].classList.remove('selected')    
+        this.classList.add('selected')
+
+
+
+    })
+    
+}
+
 
 for(var i = 0; i< squares.length; i++) {
     //Add intial colors to squares
@@ -110,6 +133,6 @@ function randomColor() {
     var red = Math.floor(Math.random() * 256)
     var green = Math.floor(Math.random() * 256)
     var blue = Math.floor(Math.random() * 256)
-
+    console.log(`${red}, ${green}, ${blue}`)
     return `rgb(${red}, ${green}, ${blue})`
 }
