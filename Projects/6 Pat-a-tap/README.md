@@ -1,11 +1,11 @@
 # Project 6: Personal Website
-This project is inspired from a Chrome Experiment![][1] Pat-a-Tap![][2]
+This project is inspired from a [Chrome Experiment], [Pat-a-Tap]
 
 
 
 
 
-[1]: https://experiments.withgoogle.com/patatap
-[2]: https://patatap.com
+[Chrome Experiment]: https://experiments.withgoogle.com/patatap
+[Pat-a-Tap]: https://patatap.com
 []: http://paperjs.org
 []: https://howlerjs.com
