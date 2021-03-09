@@ -1,22 +1,10 @@
-/* Primary colors
-Dark cyan: hsl(185, 75%, 39%)
-Very dark desaturated blue: hsl(229, 23%, 23%)
-Dark grayish blue: hsl(227, 10%, 46%)
-
-neutral: 
-dark gray: hsl(0, 0%, 59%)
-font-family: 'Kumbh Sans', sans-serif;
-font-weight: 400, 700
-font size 1.125rem */
-
-
 body {
     text-align: center;
     font-family: 'Kumbh Sans', sans-serif;
     background-color: hsl(185, 75%, 39%);
     font-size: 1.125rem;
     background-image: url(images/bg-pattern-top.svg), url(images/bg-pattern-bottom.svg);
-    background-attachment: fixed;
+    background-attachment: static;
     background-position: left top, right bottom;
     background-repeat: no-repeat;
     background-size: 45% 60%;
@@ -24,12 +12,14 @@ body {
 
 .container {
     display: inline-block;
-    margin: 15% auto;
+    margin: 13% auto;
+    background-color: white;
+    border-radius: 1rem;
+    box-shadow: 10px 10px 15px 10px hsl(185, 75%, 31%); 
 }
 
 .card {
     width: 100%;
-    height: 370px;
     border-radius: 1rem;
     background-color: white;
 }
@@ -37,17 +27,14 @@ body {
 #bg-pattern {
     width: 100%;
     border-radius: 1rem 1rem 0 0; 
-}
-
-.personal-info {
-
+    z-index: -1;
 }
 
 #profile-picture {
     border-radius: 100%;
     border: 5px solid white;
-    /* position: absolute; */
-    margin: 0% auto;
+    margin: auto;
+    margin-top: -15%;
 }
 
 #name {
@@ -83,6 +70,5 @@ small, span {
 
 @media only screen and (max-width: 600px) {
     body {
-      background-color: lightblue;
     }
   }
