@@ -16,13 +16,22 @@ body {
     background-color: hsl(185, 75%, 39%);
     font-size: 1.125rem;
     background-image: url(images/bg-pattern-top.svg), url(images/bg-pattern-bottom.svg);
+    background-attachment: fixed;
+    background-position: left top, right bottom;
+    background-repeat: no-repeat;
+    background-size: 45% 60%;
+}
+
+.container {
+    display: inline-block;
+    margin: 15% auto;
 }
 
 .card {
-    width: 25%;
+    width: 100%;
     height: 370px;
     border-radius: 1rem;
-    background-color: lightgreen;
+    background-color: white;
 }
 
 #bg-pattern {
@@ -37,10 +46,19 @@ body {
 #profile-picture {
     border-radius: 100%;
     border: 5px solid white;
+    /* position: absolute; */
+    margin: 0% auto;
+}
+
+#name {
+    font-weight: 700;
+    color: hsl(229, 23%, 23%);
 }
 
 hr {
-    width: 100%;
+    width: 99%;
+    border-style: solid;
+    color: hsl(0, 0%, 59%);
 }
 
 ul {
@@ -48,7 +66,23 @@ ul {
     float: left;
 }
 
+ul p {
+    font-weight: 700;
+    color: hsl(229, 23%, 23%);
+}
+
+p {
+    color: hsl(0, 0%, 59%);
+}
 
 small, span {
     color: hsl(0, 0%, 59%);
+    font-weight: 400;
 }
+
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
