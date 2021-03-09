@@ -6,49 +6,48 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
     <title>Profile Card</title>
 </head>
 <body>
 
-    <div id="upperImage">
-        <img src="images/bg-pattern-top.svg" alt="" srcset="">
-    </div>
-    
-    <div id="container">
-        <div id="upper-background"></div>
-        <div id="profile-pic"></div>
-        <div id="personal-info">
-            <h4>Victor Crest <span> 26</span></h4>
-            <p>London</p>
-        </div>
-        <div id="lowerBoard">
-            <div id="social">
-                <div id="followers">
-                    <h4>80K</h4>
-                    <p>Followers</p>
-                </div>
-                <div id="likes">
-                    <h4>803K</h4>
-                    <p>Likes</p>
-                </div>
-                <div id="photos">
-                    <h4>1.4K</h4>
-                    <p>Photos</p>
-                </div>
+    <div class="container">
+        <div class="card">
+            <img id="bg-pattern" src="images/bg-pattern-card.svg" alt="Card background">
+            <div class="personal-info">
+                <img id="profile-picture" src="images/image-victor.jpg" alt="Profile picture">
+                <p id="name">Victor Crest <span>26</span></p>
+                <p>London</p>
+            </div>
+            <hr>
+            <div class="stats">
+                <ul>
+                    <li>
+                        <p>80K</p>
+                        <small>Followers</small>
+                    </li>
+                </ul>
+                <ul>
+                    <li>
+                        <p>803K</p>
+                        <small>Likes</small>
+                    </li>
+                </ul>
+                <ul>
+                    <li>
+                        <p>1.4K</p>
+                        <small>Photos</small>
+                    </li>
+                </ul>
             </div>
         </div>
     </div>
-
-    <div id="lowerImage">
-        <img src="images/bg-pattern-bottom.svg" alt="" srcset="">
-    </div>
-
-    <!-- side dots -->
+<!-- 
+     side dots
     <aside>
 
-    </aside>
+    </aside> -->
 </body>
 </html>

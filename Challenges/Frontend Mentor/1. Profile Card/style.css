@@ -9,93 +9,46 @@ font-family: 'Kumbh Sans', sans-serif;
 font-weight: 400, 700
 font size 1.125rem */
 
+
 body {
     text-align: center;
-    background: hsl(185, 75%, 39%);
     font-family: 'Kumbh Sans', sans-serif;
-    font-weight: 400, 700;
+    background-color: hsl(185, 75%, 39%);
     font-size: 1.125rem;
+    background-image: url(images/bg-pattern-top.svg), url(images/bg-pattern-bottom.svg);
 }
 
-#container {
-    height: 18rem;
-    width: 18rem;
+.card {
+    width: 25%;
+    height: 370px;
     border-radius: 1rem;
-    background-color: white;
-    display: inline-block;
-    position: relative;
-}
-#upper-background {
-    height: 45%;
-    background-image: url('images/bg-pattern-card.svg');
-    border-top-left-radius:  1rem;
-    border-top-right-radius: 1rem;
+    background-color: lightgreen;
 }
 
-#profile-pic {
-    border-radius: 3rem;
-    height: 5.9rem;
-    width: 5.8rem;
-    border: 5px solid white;
-    background-image: url('images/image-victor.jpg');
-    background-repeat: no-repeat;
-    display: inline-block;
-    position: relative;
-    top: -20%;
-}
-
-#personal-info {
-    margin-top: 0px;
-}
-
-#lowerBoard {
-    background-color: white;
-    border-top: 1px solid hsl(0, 0%, 59%);
-    height: 5rem;
+#bg-pattern {
     width: 100%;
-    top: 20%;
-    border-bottom-right-radius: 1rem;
-    border-bottom-left-radius: 1rem;
+    border-radius: 1rem 1rem 0 0; 
 }
 
-#social {
-    position: relative;
-    display: inline;
+.personal-info {
+
 }
 
-#followers {
+#profile-picture {
+    border-radius: 100%;
+    border: 5px solid white;
+}
+
+hr {
+    width: 100%;
+}
+
+ul {
+    list-style: none;
     float: left;
-    width: 32%;
-}
-#likes {
-    width: 32%;
 }
 
-#photos {
-    float: right;
-    width: 32%;
-}
 
-img {
-    height: 100px;
-    width: 100px;
-    display: inline-block;
-}
-
-#upperImage {
-    left: 100px;
-}
-
-h4 {
-    line-height: 0px;
-}
-
-p {
+small, span {
     color: hsl(0, 0%, 59%);
-    line-height: 0px;
-}
-
-span {
-    color: hsl(0, 0%, 59%);
-    font-weight: 400;
 }
