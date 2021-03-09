@@ -15,7 +15,7 @@ body {
     margin: 13% auto;
     background-color: white;
     border-radius: 1rem;
-    box-shadow: 10px 10px 15px 10px hsl(185, 75%, 31%); 
+    box-shadow: 10px 10px 13px 7px hsl(185, 75%, 31%); 
 }
 
 .card {
@@ -66,9 +66,3 @@ small, span {
     color: hsl(0, 0%, 59%);
     font-weight: 400;
 }
-
-
-@media only screen and (max-width: 600px) {
-    body {
-    }
-  }
