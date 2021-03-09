@@ -2,4 +2,6 @@
 
 ## Challenge 1: Profile Card
 
-Uses HTML/CSS
+Uses HTML/CSS. 
+
+### Challenges Faced
