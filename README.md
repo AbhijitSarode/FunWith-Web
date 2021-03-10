@@ -30,6 +30,7 @@ This project uses jQuery to manipulate DOM
 ## Frontend Mentor
 
 ### Challege 1: Profile Card
+http://fun-with-web-git-main-abhijitsarode.vercel.app/
 
 # Resources
 
