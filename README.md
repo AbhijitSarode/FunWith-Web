@@ -3,7 +3,7 @@ This repo is a collection of all the small projects built to learn the web skill
 
 # Projects
 
-### Project 1: Personal Website
+### Project 1: [Personal Website](https://personal-website-xi-wheat.vercel.app)
 This project is inspired by the Sean Halpin's old website. This is a responsive website which uses HTML/CSS.
 ![Porfolio site][P1.1]
 ![Porfolio site][P1.2]
