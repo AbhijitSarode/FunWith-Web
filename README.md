@@ -24,6 +24,7 @@ Guess The Color is an interactive game where you have to select the right RGB co
 This project uses jQuery to manipulate DOM 
 
 ### Project 6: Pat-a-tap
+This project is inspired by a chrome experiment pat-a-tap
 
 # Challenges
 
