@@ -3,14 +3,25 @@ This project is the very first project in the journey of web development. This p
 
 In this project following things are used
 * ```position``` properties to make it responsive
-* Correct text and image positioning
-* Color gradeints
-* Mail integration
 * Custom fonts
+* Color gradients
+* Mail integration
+* Responsive images
 
 ### Challenges Faced
-* Box model
-* Display
+Correct placement of components
+
 ### Solutions To Challenges
+Use *box model* & *display* properties to arrange componets
+* Box model
+    * Use *Pesticide* a chrome extension to see box models as you build along
+    * Use chrome dev tools to diagnose & modify component sizing issues before writing it in CSS file
+* Display
+    * Use ```position``` instead of ```float``` to arrange images
+    * Use ```%``` over ```px``` for image dimensions
 
 ### Key Takeaway
+1. Correct HTML structure makes life easy
+2. Use ```float``` with **text** & ```position``` with **images** for conflict free design
+3. Use well defined structured comments in the code
+4. Start making components responsive from the beginning
