@@ -3,28 +3,31 @@ This repo is a collection of all the small projects built to learn the web skill
 
 # Projects
 
-### Project 1: [Personal Website](https://personal-website-xi-wheat.vercel.app)
+### [Project 1: Personal Website](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Projects/1%20Personal%20Website)
 This project is inspired by the Sean Halpin's old website. This is a responsive website which uses HTML/CSS.
+To visit live website click [here](https://personal-website-xi-wheat.vercel.app)
 ![Porfolio site][P1.1]
 ![Porfolio site][P1.2]
 
-### Project 2: Roll The Dice
+### [Project 2: Roll The Dice](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Projects/2%20Roll%20The%20Dice)
 Roll The Dice is a basic game. It uses basic DOM manipulation techniques of dynamically adding and updating UI elements
 ![Dicee][P2]
 
-### Project 3: Drum Kit
+### [Project 3: Drum Kit](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Projects/3%20Drum%20kit)
 Drum kit allows you to play basic drums and cymbals sounds either by clicking on virtual keys or pressing the keys on the keyboard. This project focuses on eventListeners, DOM manipulation & audio integration
 ![Drum Kit][P3]
 
-### Project 4: Guess The Color
+### [Project 4: Guess The Color](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Projects/4%20Guess%20The%20Color)
 Guess The Color is an interactive game where you have to select the right RGB color which are randomly generated. This game comprises of two level 'Easy' & 'Hard'. This project utilizes DOM manipulations
 ![Guess The Color][P4]
 
-### Project 5: Simon Game
+### [Project 5: Simon Game](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Projects/5%20The%20Simon%20Game)
 This project uses jQuery to manipulate DOM 
 
-### Project 6: Pat-a-tap
+### [Project 6: Pat-a-tap](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Projects/6%20Pat-a-tap)
 This project is inspired by a chrome experiment pat-a-tap
+
+### [Project 7: Email List](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Projects/7%20Email%20List)
 
 # Challenges
 
