@@ -33,7 +33,7 @@ This project is inspired by a chrome experiment pat-a-tap
 
 ## Frontend Mentor
 
-### Challege 1: Profile Card
+### [Challege 1: Profile Card](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Challenges/Frontend%20Mentor/1.%20Profile%20Card)
 http://fun-with-web-git-main-abhijitsarode.vercel.app/
 
 # Resources
