@@ -3,7 +3,7 @@ This repo is a collection of all the small projects built to learn the web skill
 
 # Projects
 
-### Project 1: Personal Website
+### Project 1: [Personal Website](https://personal-website-xi-wheat.vercel.app)
 This project is inspired by the Sean Halpin's old website. This is a responsive website which uses HTML/CSS.
 ![Porfolio site][P1.1]
 ![Porfolio site][P1.2]
@@ -24,6 +24,7 @@ Guess The Color is an interactive game where you have to select the right RGB co
 This project uses jQuery to manipulate DOM 
 
 ### Project 6: Pat-a-tap
+This project is inspired by a chrome experiment pat-a-tap
 
 # Challenges
 
