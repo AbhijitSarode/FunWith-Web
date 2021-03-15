@@ -1,7 +1,7 @@
 # FunWith-Web
 This repo is a collection of all the small projects built to learn the web skills. The projects inspired from various online courses, websites, blog articles and some are just my own. Feel free to explore them. The links to the courses & articles are mentioned in the resources section of this file
 
-# Projects
+# [Projects](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Projects)
 
 ### [Project 1: Personal Website](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Projects/1%20Personal%20Website)
 This project is inspired by the Sean Halpin's old website. This is a responsive website which uses HTML/CSS.
@@ -31,7 +31,7 @@ This project is inspired by a chrome experiment pat-a-tap
 
 # Challenges
 
-## Frontend Mentor
+## [Frontend Mentor](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Challenges/Frontend%20Mentor)
 
 ### [Challege 1: Profile Card](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Challenges/Frontend%20Mentor/1.%20Profile%20Card)
 http://fun-with-web-git-main-abhijitsarode.vercel.app/
