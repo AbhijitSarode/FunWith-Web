@@ -1,10 +1,10 @@
 # FunWith-Web
-This repo is a collection of all the small projects built to learn the web skills. The projects inspired from various online courses, websites, blog articles and some are just my own. Feel free to explore them. The links to the courses & articles are mentioned in the resources section of this file
+This repo is a collection of all the small projects built to learn the web skills. The projects inspired from various online courses, websites, blog articles and some are just my own. Feel free to explore them. The links to the courses & articles are mentioned in the [resources](#resources) section of this file. Details about each project can be found in the project specific folders.
 
 # [Projects](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Projects)
 
 ### [Project 1: Personal Website](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Projects/1%20Personal%20Website)
-This project is inspired by the Sean Halpin's old website. This is a responsive website which uses HTML/CSS.
+This project is inspired by the Sean Halpin's old website. This website utilises various CSS properties to be responsive
 To visit live website click [here](https://personal-website-xi-wheat.vercel.app)
 ![Porfolio site][P1.1]
 ![Porfolio site][P1.2]
