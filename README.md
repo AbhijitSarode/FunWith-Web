@@ -28,6 +28,7 @@ This project uses jQuery to manipulate DOM
 This project is inspired by a chrome experiment pat-a-tap
 
 ### [Project 7: Email List](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Projects/7%20Email%20List)
+This project focuses on API usuage. For this project [Mailchimp API](https://mailchimp.com/developer/) is used
 
 # Challenges
 
