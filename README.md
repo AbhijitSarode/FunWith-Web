@@ -10,11 +10,11 @@ To visit live website click [here](https://personal-website-xi-wheat.vercel.app)
 ![Porfolio site][P1.2]
 
 ### [Project 2: Roll The Dice](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Projects/2%20Roll%20The%20Dice)
-Roll The Dice is a basic game. It uses basic DOM manipulation techniques of dynamically adding and updating UI elements
+Roll The Dice is a basic game. This project focuses DOM manipulation, dynamically adding and updating UI elements
 ![Dicee][P2]
 
 ### [Project 3: Drum Kit](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Projects/3%20Drum%20kit)
-Drum kit allows you to play basic drums and cymbals sounds either by clicking on virtual keys or pressing the keys on the keyboard. This project focuses on eventListeners, DOM manipulation & audio integration
+Drum kit allows you to play basic drums and cymbals sounds either by clicking on virtual keys or pressing the keys on the keyboard. The goal of this project is to learn about EventListeners, DOM manipulation & audio integration
 ![Drum Kit][P3]
 
 ### [Project 4: Guess The Color](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Projects/4%20Guess%20The%20Color)
@@ -22,10 +22,10 @@ Guess The Color is an interactive game where you have to select the right RGB co
 ![Guess The Color][P4]
 
 ### [Project 5: Simon Game](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Projects/5%20The%20Simon%20Game)
-This project uses jQuery to manipulate DOM 
+This project is essentially a digital version of an old memory game 'Simon'. The goal of this project is to learn about jQuery. jQuery is used to manipulate audio and visual components 
 
 ### [Project 6: Pat-a-tap](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Projects/6%20Pat-a-tap)
-This project is inspired by a chrome experiment pat-a-tap
+This project is inspired by a chrome experiment [pat-a-tap](https://patatap.com).
 
 ### [Project 7: Email List](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Projects/7%20Email%20List)
 This project focuses on API usuage. For this project [Mailchimp API](https://mailchimp.com/developer/) is used
