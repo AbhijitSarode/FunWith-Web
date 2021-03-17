@@ -25,10 +25,10 @@ Guess The Color is an interactive game where you have to select the right RGB co
 This project is essentially a digital version of an old memory game 'Simon'. The goal of this project is to learn about jQuery. jQuery is used to manipulate audio and visual components 
 
 ### [Project 6: Pat-a-tap](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Projects/6%20Pat-a-tap)
-This project is inspired by a chrome experiment [pat-a-tap](https://patatap.com).
+This project is inspired by a chrome experiment [pat-a-tap](https://patatap.com). The goal of this project is to learn integrating and using 3rd party libraries in the project. This project uses [paper.js](http://paperjs.org) and [howler.js](https://howlerjs.com)
 
 ### [Project 7: Email List](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Projects/7%20Email%20List)
-This project focuses on API usuage. For this project [Mailchimp API](https://mailchimp.com/developer/) is used
+This project is basically a subscription form to sign users for an email newsletters. The goal of this project is to learn about API, JSON parsing, network requests[Mailchimp API](https://mailchimp.com/developer/)
 
 # Challenges
 
