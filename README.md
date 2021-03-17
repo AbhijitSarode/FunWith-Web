@@ -22,7 +22,7 @@ Guess The Color is an interactive game where you have to select the right RGB co
 ![Guess The Color][P4]
 
 ### [Project 5: Simon Game](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Projects/5%20The%20Simon%20Game)
-This project is essentially a digital version of an old memory game 'Simon'. The goal of this project is to learn about jQuery. jQuery is used to manipulate audio and visual components 
+This project is essentially a digital version of an old memory game 'Simon'. The goal of this project is to learn about jQuery. Here jQuery is used to manipulate audio and visual components 
 
 ### [Project 6: Pat-a-tap](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Projects/6%20Pat-a-tap)
 This project is inspired by a chrome experiment [pat-a-tap](https://patatap.com). The goal of this project is to learn integrating and using 3rd party libraries in the project. This project uses [paper.js](http://paperjs.org) and [howler.js](https://howlerjs.com)
