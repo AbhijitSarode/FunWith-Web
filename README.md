@@ -28,7 +28,7 @@ This project is essentially a digital version of an old memory game 'Simon'. The
 This project is inspired by a chrome experiment [pat-a-tap](https://patatap.com). The goal of this project is to learn integrating and using 3rd party libraries in the project. This project uses [paper.js](http://paperjs.org) and [howler.js](https://howlerjs.com)
 
 ### [Project 7: Email List](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Projects/7%20Email%20List)
-This project is basically a subscription form to sign users for an email newsletters. The goal of this project is to learn about API, JSON parsing, network requests[Mailchimp API](https://mailchimp.com/developer/)
+This project is basically a subscription form to sign up users for an email newsletters. The goal of this project is to learn about API, JSON parsing, network requests. For this prject [Mailchimp API](https://mailchimp.com/developer/) is used to create and manage users
 
 # Challenges
 
