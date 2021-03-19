@@ -31,23 +31,33 @@ app.post('/', function(req, res){
     }
 
     var jsonData = JSON.stringify(data)
-    const listID = 'b11e46eb41'
-    const apiKey = '3f3625cfc24b744d275ca995a49ceba1-us1'
-    const url = 'https://us1.api.mailchimp.com/3.0/'
+    const listID = '6ecbc121c5'
+    const apiKey = '4dd24e1c195b4bda0f8fe93e593fd2e8-us1'
+    const url = 'https://us1.api.mailchimp.com/3.0/lists' + listID
 
     const options = {
         method: "POST"
         auth: 'abhijit:'+ apiKey
     }
 
-    https.request(url, options, function(response) {
-        res.on("data", function(data){
+    const request = https.request(url, options, function(response) {
+
+        if (response.statusCode === 200) {
+            res.send('successfully subsctibed')
+        } else {
+            res.send('please sign up again')
+        }
+
+        response.on("data", function(data){
             console.log(JSON.parse(data))
         })
     })
+
+    request.write(jsonData)
+    req.end
 })
 
 
-app.listen(3000, function(){
+app.listen(process.env.PORT || 3000, function(){
     console.log('Server started on port 3000')
 })
