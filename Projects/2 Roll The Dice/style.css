@@ -1,7 +1,13 @@
+/* Entire Page */
+
 body {
     background-color: #393E46;
     text-align: center;
   }
+
+/*------------------------
+ Heading 
+ ------------------------*/
 
   h1 {
     margin: 30px;
@@ -10,6 +16,10 @@ body {
     font-size: 8rem;
     color: #4ECCA3;
   }
+
+/*------------------------
+ Figure 
+ ------------------------*/
 
   p {
     margin: auto;
