@@ -1,6 +1,7 @@
 var randonNumber1 = Math.floor((Math.random() * 6) + 1)
 var randonNumber2 = Math.floor((Math.random() * 6) + 1)
 
+// Used two differnt methods to select HTML components
 document.getElementById('left-img').src = `images/dice${randonNumber1}.png`
 document.querySelector('#right-img').src = `images/dice${randonNumber2}.png`
 
