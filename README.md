@@ -22,16 +22,23 @@ Drum kit allows you to play basic drums and cymbals sounds either by clicking on
 
 ### [Project 4: Guess The Color](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Projects/4%20Guess%20The%20Color)
 Guess The Color is an interactive game where you have to select the right RGB color which are randomly generated. This game comprises of two level 'Easy' & 'Hard'. This project utilizes DOM manipulations
+
 ![Guess The Color][P4]
 
 ### [Project 5: Simon Game](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Projects/5%20The%20Simon%20Game)
 This project is essentially a digital version of an old memory game 'Simon'. The goal of this project is to learn about jQuery. Here jQuery is used to manipulate audio and visual components 
 
+![Simon Game][P5]
+
 ### [Project 6: Pat-a-tap](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Projects/6%20Pat-a-tap)
 This project is inspired by a chrome experiment [pat-a-tap](https://patatap.com). The goal of this project is to learn integrating and using 3rd party libraries in the project. This project uses [paper.js](http://paperjs.org) and [howler.js](https://howlerjs.com)
 
+![Pat-a-tap][P6]
+
 ### [Project 7: Email List](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Projects/7%20Email%20List)
 This project is basically a subscription form to sign up users for an email newsletters. The goal of this project is to learn about API, JSON parsing, network requests. For this prject [Mailchimp API](https://mailchimp.com/developer/) is used to create and manage users
+
+![Guess Email List][P7]
 
 # Challenges
 
@@ -59,5 +66,8 @@ http://fun-with-web-git-main-abhijitsarode.vercel.app/
 
 [P2]: https://github.com/AbhijitSarode/FunWith-Web/blob/main/Screenshots/P2.gif
 [P3]: https://github.com/AbhijitSarode/FunWith-Web/blob/main/Screenshots/P3.png
-[P4]: https://github.com/
+[P4]: https://github.com/AbhijitSarode/FunWith-Web/blob/main/Screenshots/P4.gif
+[P5]: https://github.com/AbhijitSarode/FunWith-Web/blob/main/Screenshots/P5.gif
+[P6]: https://github.com/AbhijitSarode/FunWith-Web/blob/main/Screenshots/P6.gif
+[P7]: https://github.com/AbhijitSarode/FunWith-Web/blob/main/Screenshots/P7.gif
 <!-- Challenges -->
