@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(53, 52, 52);
+    background-color: #f5feff;
     text-align: center;
     margin: 0;
     font-family: "Avenir", "Montserrat";
@@ -13,7 +13,7 @@ body {
 
 #statusBar {
     height: 2rem;
-    background-color: white;
+    background-color: #bde4f4;
     text-transform: uppercase;
     color: steelblue;
     font-weight: 700;
