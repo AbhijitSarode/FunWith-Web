@@ -1,8 +1,10 @@
-/* Entire Page */
+/*------------------------
+ Entire Page 
+ ------------------------*/
 
 body {
-    background-color: #393E46;
-    text-align: center;
+  background-color: #bbe1fa;
+  text-align: center;
   }
 
 /*------------------------
@@ -12,9 +14,9 @@ body {
   h1 {
     margin: 30px;
     font-family: 'Lobster', cursive;
-    text-shadow: 5px 0 #232931;
+    text-shadow: 5px 0 #3282b8;
     font-size: 8rem;
-    color: #4ECCA3;
+    color: #0f4c75;
   }
 
 /*------------------------
@@ -24,9 +26,9 @@ body {
   p {
     margin: auto;
     font-family: 'Lobster', cursive;
-    text-shadow: 5px 0 #232931;
+    text-shadow: 1px 0 #3282b8;
     font-size: 2rem;
-    color: #4ECCA3;
+    color: #0f4c75;
     display: inline;
     position: absolute;
   }

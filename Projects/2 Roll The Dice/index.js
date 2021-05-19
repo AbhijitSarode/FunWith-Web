@@ -6,7 +6,7 @@ document.getElementById('left-img').src = `images/dice${randonNumber1}.png`
 document.querySelector('#right-img').src = `images/dice${randonNumber2}.png`
 
 if (randonNumber1 == randonNumber2) {
-    document.querySelector('h1').innerText = 'Draw!'
+    document.querySelector('h1').innerText = 'Draw!' //Targeting an element & updating its value
 } else if (randonNumber1 < randonNumber2) {
     document.querySelector('h1').innerText = 'Player 2 won 🚩'
 } else {

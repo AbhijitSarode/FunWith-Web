@@ -10,7 +10,7 @@ To visit live website click [here](https://personal-website-xi-wheat.vercel.app)
 ![Porfolio site][P1.2]
 
 ### [Project 2: Roll The Dice](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Projects/2%20Roll%20The%20Dice)
-Roll The Dice is a basic game. This project focuses DOM manipulation, dynamically adding and updating UI elements
+Roll The Dice is a basic game which chooses a winner with higher dice value everytime webpage is refreshed. This project focuses DOM manipulation, dynamically adding and updating UI elements.
 ![Dicee][P2]
 
 ### [Project 3: Drum Kit](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Projects/3%20Drum%20kit)
