@@ -6,6 +6,7 @@ This repo is a collection of all the small projects built to learn the web skill
 ### [Project 1: Personal Website](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Projects/1%20Personal%20Website)
 This project is inspired by the Sean Halpin's old website. This website utilises various CSS properties to be responsive
 To visit live website click [here](https://personal-website-xi-wheat.vercel.app)
+
 ![Porfolio site][P1.1]
 ![Porfolio site][P1.2]
 
@@ -52,10 +53,10 @@ http://fun-with-web-git-main-abhijitsarode.vercel.app/
 <!-- links -->
 
 <!-- Projects -->
-[P1.1]: https://raw.githubusercontent.com/AbhijitSarode/FunWith-Web/main/Screenshots/Screenshot%202021-03-02%20at%207.05.18%20AM.png?token=AMNLQ32PM6N75TGMDN53OVDAHWLVA
-[P1.2]: https://raw.githubusercontent.com/AbhijitSarode/FunWith-Web/main/Screenshots/Screenshot%202021-03-02%20at%207.06.05%20AM.png?token=AMNLQ36YLR2II2G5P7R3AJLAHWLZC
+[P1.1]: https://github.com/AbhijitSarode/FunWith-Web/blob/main/Screenshots/P1.1.png
+[P1.2]: https://github.com/AbhijitSarode/FunWith-Web/blob/main/Screenshots/P1.2.png
 
-[P2]: https://github.com/AbhijitSarode/FunWith-Web/blob/main/Screenshots/RollTheDice.gif
+[P2]: https://github.com/AbhijitSarode/FunWith-Web/blob/main/Screenshots/P2.gif
 [P3]: https://github.com/
 [P4]: https://github.com/
 <!-- Challenges -->
