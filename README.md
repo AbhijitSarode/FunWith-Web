@@ -17,6 +17,7 @@ Roll The Dice is a basic game which chooses a winner with higher dice value ever
 
 ### [Project 3: Drum Kit](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Projects/3%20Drum%20kit)
 Drum kit allows you to play basic drums and cymbals sounds either by clicking on virtual keys or pressing the keys on the keyboard. The goal of this project is to learn about EventListeners, DOM manipulation & audio integration
+
 ![Drum Kit][P3]
 
 ### [Project 4: Guess The Color](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Projects/4%20Guess%20The%20Color)
@@ -57,6 +58,6 @@ http://fun-with-web-git-main-abhijitsarode.vercel.app/
 [P1.2]: https://github.com/AbhijitSarode/FunWith-Web/blob/main/Screenshots/P1.2.png
 
 [P2]: https://github.com/AbhijitSarode/FunWith-Web/blob/main/Screenshots/P2.gif
-[P3]: https://github.com/
+[P3]: https://github.com/AbhijitSarode/FunWith-Web/blob/main/Screenshots/P3.png
 [P4]: https://github.com/
 <!-- Challenges -->
