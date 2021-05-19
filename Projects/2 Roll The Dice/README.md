@@ -11,8 +11,8 @@ More of an artistic challenge of selecting right color and fonts.
 
 ### Solutions To Challenges
 Use professional resources
-    * [Google Fonts](https://fonts.google.com) for custom fonts
-    * [Color Hunt](https://colorhunt.co) for color palette selection
+* [Google Fonts](https://fonts.google.com) for custom fonts
+* [Color Hunt](https://colorhunt.co) for color palette selection
 
 ### Key Takeaway
 Designing isnt my gig (Hopefully above choices make this project decent)
