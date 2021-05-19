@@ -3,7 +3,7 @@
  ------------------------*/
 
 body {
-  background-color: #bbe1fa;
+  background-color: #f8f3d4;
   text-align: center;
   }
 
@@ -14,9 +14,9 @@ body {
   h1 {
     margin: 30px;
     font-family: 'Lobster', cursive;
-    text-shadow: 5px 0 #3282b8;
+    text-shadow: 5px 0 #522546;
     font-size: 8rem;
-    color: #0f4c75;
+    color: #f6416c;
   }
 
 /*------------------------
@@ -26,9 +26,9 @@ body {
   p {
     margin: auto;
     font-family: 'Lobster', cursive;
-    text-shadow: 1px 0 #3282b8;
+    text-shadow: 1px 0 #88304e;
     font-size: 2rem;
-    color: #0f4c75;
+    color: #f6416c;
     display: inline;
     position: absolute;
   }
