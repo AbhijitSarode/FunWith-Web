@@ -15,4 +15,4 @@ Use professional resources
 * [Color Hunt](https://colorhunt.co) for color palette selection
 
 ### Key Takeaway
-Designing isnt my gig (Hopefully above choices make this project decent)
+Designing isnt my gig (Hopefully above choices make this project look decent)
