@@ -99,7 +99,7 @@ for(var i = 0; i< squares.length; i++) {
             changeColors()
             resetBtn.textContent = "Play Again?"
         } else {
-            this.style.background = "rgb(53, 52, 52)"
+            this.style.background = "#f5feff"
             messgeDisplay.textContent = "Try again"
         }
     })
