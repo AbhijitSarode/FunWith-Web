@@ -21,7 +21,7 @@ Drum kit allows you to play basic drums and cymbals sounds either by clicking on
 ![Drum Kit][P3]
 
 ### [Project 4: Guess The Color](https://github.com/AbhijitSarode/FunWith-Web/tree/main/Projects/4%20Guess%20The%20Color)
-Guess The Color is an interactive game where you have to select the right RGB color which are randomly generated. This game comprises of two level 'Easy' & 'Hard'. This project utilizes DOM manipulations
+Guess The Color is an interactive game where you select the right RGB color which is randomly generated. This game comprises of two level 'Easy' & 'Hard'. This project utilizes DOM manipulations
 
 ![Guess The Color][P4]
 

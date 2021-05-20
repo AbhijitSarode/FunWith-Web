@@ -1,19 +1,24 @@
+//Step1:- Select all drum elements from HTML page
 var numberOfButtons = document.querySelectorAll('.drum').length;
 
+//Step2A:- Add click eventListener on all drums
+//Step2.2:- Play appropriate sound by passing drum value to the function
+//Step2.1:- Play appropriate animation by passing drum value to the function 
 for (var i = 0; i < numberOfButtons; i++) {
     document.querySelectorAll(".drum")[i].addEventListener("click", function () {
-        var buttonInnerHTML = this.innerHTML
+        var buttonInnerHTML = this.innerHTML //Gets the button value when clicked on it
         activateDrum(buttonInnerHTML)
         buttonAnimation(buttonInnerHTML)
     });
 }
-
+//Step2B:- Add keypress eventListener on all drums, play sound & animation
 document.addEventListener("keypress", function(event) {
     activateDrum(event.key)
     buttonAnimation(event.key)
 })
 
 
+//Step3:-Select audio, play audio using switch
 function activateDrum(drum) {
     switch (drum) {
         case "w":
@@ -51,11 +56,13 @@ function activateDrum(drum) {
     }
 }
 
+//Step4.1:- Select clicked/tapped drum
+//Step4.2:- Animate by adding a class and removing after a slpit second
 function buttonAnimation (currentKey) {
-    var activeButton = document.querySelector("." + currentKey)
-    activeButton.classList.add("pressed")
+    var activeButton = document.querySelector("." + currentKey) //Selects individual drum from the drumlist
+    activeButton.classList.add("pressed") //Adds CSS class
 
     setTimeout(function(){
-        activeButton.classList.remove("pressed")
+        activeButton.classList.remove("pressed") //After 0.1second removes CSS class to create animation
     }, 100)
 }
