@@ -12,3 +12,5 @@
 
 
 ### Key Takeaway
+* Jumbotron can also be created by modifying the properties of ```<h1>``` rather than alloting a dedicated ```<div>```
+*

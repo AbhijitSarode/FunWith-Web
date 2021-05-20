@@ -1,3 +1,6 @@
+/*------------------------
+ Entire Page
+ ------------------------*/
 body {
     background-color: #f5feff;
     text-align: center;
@@ -5,12 +8,25 @@ body {
     font-family: "Avenir", "Montserrat";
 }
 
-/* #jumbotron {
-    width: 100%;
-    height: 10rem;
-    background-color:rgb(27, 121, 158);
-} */
+/*------------------------
+ Jumbotron
+ ------------------------*/
+ h1 {
+    color: white;
+    background: steelblue;
+    margin: 0;
+    font-weight: normal;
+    padding: 1rem 0;
+}
 
+#color-display {
+    font-size: 200%;
+    text-transform: uppercase;
+}
+
+/*------------------------
+ Status Bar
+ ------------------------*/
 #statusBar {
     height: 2rem;
     background-color: #bde4f4;
@@ -19,44 +35,9 @@ body {
     font-weight: 700;
 }
 
-#container {
-    margin: 1.5rem auto;
-    max-width: 37.5rem;
-}
-
 #message {
     display: inline-block;
     width: 20%;
-}
-
-#color-display {
-    font-size: 200%;
-    text-transform: uppercase;
-}
-
-.square {
-    width: 30%;
-    background: purple;
-    padding-bottom: 30%;
-    margin: 1.66%;
-    border-radius: 1rem;
-    float: left;
-    transition: background 0.5s;
-    -webkit-transition: background 0.5s;
-    -moz-transition: background 0.5s;
-}
-
-.selected {
-    background-color: steelblue;
-    color: white;
-}
-
-h1 {
-    color: white;
-    background: steelblue;
-    margin: 0;
-    font-weight: normal;
-    padding: 1rem 0;
 }
 
 button {
@@ -77,4 +58,28 @@ button {
 button:hover {
     color: white;
     background: steelblue;
+}
+
+.selected {
+    background-color: steelblue;
+    color: white;
+}
+/*------------------------
+ Color Boxes
+ ------------------------*/
+#container {    /* A div that contains all the color boxes */
+    margin: 1.5rem auto;
+    max-width: 37.5rem;
+}
+
+    .square {   /*Individual color box */
+    width: 30%;
+    background: purple;
+    padding-bottom: 30%;
+    margin: 1.66%;
+    border-radius: 1rem;
+    float: left;
+    transition: background 0.5s;
+    -webkit-transition: background 0.5s;
+    -moz-transition: background 0.5s;
 }

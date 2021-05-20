@@ -7,12 +7,7 @@ var messgeDisplay = document.querySelector("#message")
 var h1 = document.querySelector('h1')
 var resetBtn = document.querySelector('#reset')
 
-/*      Refoctorization
-var easyBtn = document.querySelector("#easy")
-var hardBtn = document.querySelector("#hard")
-*/
-
-var modeButtons = document.querySelectorAll('.mode')
+var modeButtons = document.querySelectorAll('.mode') // --RF1: Select mode from HTML--
 
 /*      Development
 var pickedColor = colors[3]
@@ -82,7 +77,6 @@ for (var i = 0; i < modeButtons.length; i++) {
     })
     
 }
-
 
 for(var i = 0; i< squares.length; i++) {
     //Add intial colors to squares
