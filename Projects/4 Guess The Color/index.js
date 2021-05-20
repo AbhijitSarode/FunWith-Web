@@ -7,7 +7,7 @@ var messgeDisplay = document.querySelector("#message")
 var h1 = document.querySelector('h1')
 var resetBtn = document.querySelector('#reset')
 
-var modeButtons = document.querySelectorAll('.mode') // --RF1: Select mode from HTML--
+var modeButtons = document.querySelectorAll('.mode') // --RF1: Select game mode from HTML--
 
 /*      Development
 var pickedColor = colors[3]
